@@ -88,7 +88,7 @@ header a:hover {
 /* Showcase */
 #showcase{
   min-height: 400px;
-  background:url('../img/haxor.jpg') no-repeat 0px -300px;
+  background:url('haxor.jpg') no-repeat 0px -300px;
   text-align: center;
   color: #ffffff;
 }
@@ -124,7 +124,7 @@ header a:hover {
 #boxes{
   margin-top: 0px;
   font-family: airstrike;
-  src: url('../fonts/airstrike.ttf');
+  src: url('airstrike.ttf');
 }
 
 #boxes h1{
