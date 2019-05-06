@@ -184,6 +184,49 @@ ul#services li{
   background: #e6e6e6e6;
 }
 
+/* Interviews */
+
+#interviews{
+  text-align: center;
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+}
+
+.names{
+  font-size: 35px;
+  font-weight: bold;
+  margin-bottom: 50px;
+  margin-top: 40px;
+  padding-top: 20px;
+}
+
+.questions{
+  font-size: 25px;
+}
+
+.answers{
+  font-size: 20px;
+  font-weight: normal;
+  margin-bottom: 40px;
+}
+
+#analysis {
+  text-align: center;
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+}
+
+#analysis h1 {
+  font-weight: bold;
+  font-size: 35px;
+  margin-top: 140px;
+}
+
+#analysis h2 {
+  font-weight: normal;
+  font-size: 20px;
+}
+
 /* Pictures */
 
 .row {
